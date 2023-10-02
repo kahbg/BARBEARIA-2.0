@@ -1,3 +1,7 @@
 header{
 baackgroubd: #BBBBBB;
 }
+
+nav li{
+  display: inline;
+}
